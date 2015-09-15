@@ -1,0 +1,8 @@
+Dúvidas:
+
+  - Como criar especializações/subclasses; vale a pena usar nesse caso? (Pessoa, Aluno, Professor)
+  - Aluno/Professor são subclasses? Ou isso é um atributo do relacionamento?
+  - Pra qual lado é o "u" de especialização
+
+
+  tópico tem atributo "publicado"
