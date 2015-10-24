@@ -1,0 +1,35 @@
+SOCIEDADE ATUAL...
+A sociedade vive hoje num ritmo extremamente acelerado, onde cada vez mais informação está disponível para nossa consulta; encontramos informações relevantes a cada segundo na internet e que muitas vezes são extremamente importantes, porém pouco disso será realmente armazenado pelo nosso cérebro devido a poluição de informação que estamos expostos. 
+Então se torna essencial que todo aprendizado seja de fato retido e que o conhecimento se mantenha e se perpetue.
+(CLICA)
+OTIMIZANDO
+E nesse contexto de otimização do aprendizado que em 1946 o prof. Edgar Dale, a partir de pesquisas sobre retenção de informação, ao usar diferentes métodos de aprendizadem, criou a PIRÂMIDE DE APRENDIZAGEM.
+(CLICA)
+E Segundo Edgar Dale, depois de duas semanas somos capazes de reter até 30% do que aprendemos através de métodos passivos, ou seja, palestra, leitura, audiovisual ou uma demonstração; ou seja, nas aulas como são dadas hoje em dia somos capazes de reter apenas 30% do que o prof. Nos ensina.
+Por outro lado segundo a pirâmide 90% do conhecimento é retido através do ensino às outras pessoas.
+
+
+Hoje em dia, o professor é responsável pelo conhecimento da classe. Ou seja, uma pessoa é o único dono do conhecimento.
+(CLICA)
+Nossa idéia é romper com esse modelo, tornar o aprendizado universal e horizontalizado, tornar possível qualquer pessoa aprender algo novo, do mesmo modo que qualquer pessoa é capaz de ensinar aos outros.
+(CLICA)
+(CLICA)
+Nosso objetivo é Acabar com as barreiras para o conhecimento tornando possível qualquer pessoa aprender ou ensinar através de uma plataforma de estudos.
+Isso cria espaço para por exemplo, alunos que estudam a mesma matéria, mas cada um tem facilidade em um conceito diferente, o ideal seria juntar cada uma dessas facilidades e isso que nossa solução propõe: utilizar o melhor de cada um em prol do ensino.Isso também remete a uma atitude profundamente altruísta, o que significa estar disposto a contribuir com o conhecimentos dos outros, o que sempre estará atrelado ao nosso próprio conhecimento
+
+COMO FUNCIONA
+A Plataforma permitirá que professores ofereçam cursos, os quais terão video , texto e materiais que ajudem os alunos.
+A ideia é que cada curso terá um fórum onde os alunos poderão interagir entre si e com os professores, além de salas de aula virtuais com materiais referentes a cada aula.
+E cada curso será ministrado por um ou mais professores que também podem eleger monitores que têm como objetivo adicionar conteúdos relevantes ou designar uma trilha melhor a ser seguida pelo aluno.
+(CLICA)
+O sistema de aprendizado online será estruturado de modo que os cursos serão ranqueados pelos usuários de acordo com a proposta do mesmo, assim o sistema se autogerencia, colocando as melhores aulas (aulas com melhor ranking) em destaque.
+
+
+PUBLCIO
+Nossa ideia é abranger o máximo e pessoas possível, tornar o conhecimento global. Portanto o software se aplica desde um aluno de faculdade que precisa de ajuda em Porgramção Linear, para uma criança que precisa de ajuda para começar a escrever ou ainda alguém que seja um entusiasta sobre algum assunto e gostaria de compartilhá-lo
+
+Lucro
+Chutando 500h de trabalho para o desenvolvimento ( 2 semanas de desenvolvimento para cada pessoa) e usando o valor de R$10 a hora de trabalho (valor extremamente baixo), temos o custo de desenvolvimento do software de R$5000
+O retorno é gerado através de propagandas no site, que esta atrelada ao numero de usuários no site, usando a premissa que o numero de usuários dobra a cada mês durante um ano e depois cresce a uma proporção de 5% por mês e que para cada 20 usuários por mês ganhamos 1 real e o site iniciando com 10 usuários, demoraria 15 meses (R$5606, 41) para conseguir o payback
+
+
