@@ -1,0 +1,12 @@
+NOTES
+
+- Adicionar: idPOst
+- DUVIDA: em Questão o atributo alternativa tambem é multivadorado, certo?
+- DUVIDA: o que é data no material?
+
+- NOVO: Especializacao material, agora tem 3 entidades: Docuemnto, video e texto
+- NOVO: o quiz agora tem atributo composto e cada alternativa tem uma pontuação
+- NOVO: o usuario nao tem mais rofessor aluno e tutor, existe uma permissao no relacionamento que diz qual funcao ele pode exercer
+- NOVO: A primeira linha do post vai ser o titulo do topico caso esse nao seja reply
+- DUVIDA: Cada usuario vai avaliar a aula ou avaliar cada material?
+- DUVIDA: precisa colocar d de uma especializacao da especializacao?
