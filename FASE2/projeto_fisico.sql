@@ -161,6 +161,8 @@ create table if not exists 'assistiu' (
 	CONSTRAINT 'assistiu_fk2' FOREIGN KEY ('video_id') REFERENCES 'video' ('id'),
 );
 
+
+
 #################
 ####TRIGGERS#####
 ################################################################################
@@ -192,8 +194,23 @@ $$ LANGUAGE plpgsql;
 CREATE TRIGGER uma_alternativa_certa1
 BEFORE INSERT ON alternativa
 FOR EACH ROW
-EXECUTE PROCEDURE verifica_alternativas();
+EXECUTE PROCEDURE verifica_alternativas1();
 ################################################################################
+CREATE or REPLACE FUNCTION verifica_alternativas2()
+	RETURNS TRIGGER AS $$
+BEGIN
+	IF 1 = (SELECT count(*) FROM alternativa AS A WHERE A.questao_enunciado = NEW.questao_enunciado AND A.alternativa_certa = 1) AND NEW.alternativa_certa = 1 THEN
+	RAISE EXCEPTION 'A questão só pode ter uma alternativa correta';
+	END IF;
+	RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER uma_alternativa_certa2
+BEFORE INSERT ON alternativa
+FOR EACH ROW
+EXECUTE PROCEDURE verifica_alternativas2();
+
 
 
 
