@@ -1,0 +1,9 @@
+O código da nossa plataforma ficou muito grande (53MB em zip),
+e enviamos por email para a professora diretamente.
+
+Não existe executável pois é uma plataforma web. Um servidor vivo
+rodando o código pode ser acessado em:
+
+http://wwared.us.to:42137/~wwared/moodle/
+
+Se houverem problemas ao acessar o site, por favor nos avise!

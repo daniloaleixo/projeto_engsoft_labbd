@@ -1,0 +1,34 @@
+Participantes do grupo:
+----------------------
+
+Bruno Endo - 7990982 
+Danilo Aleixo - 7972370
+Gustavo Caparica - 7991020
+José Rodrigues - 7991083
+
+
+O Projeto esta separado nos seguintes arquivos:
+----------------------------------------------
+
+---Statecharts
+Statecharts.pdf
+
+---Projeto Arquitetônico
+ProjetoArquitetonico.pdf
+
+---Projeto de Interface do Sistema
+Projeto de Interface.pdf
+
+---Projeto de classes do sistema
+Diagrama de Classes.pdf
+
+---Código fonte e executável
+Ver "Codigo Fonte e Executavel.txt".
+
+---Manual do Usuário
+Manual de usuário.pdf -> O manual de uso do sistema
+
+---Relatório do que foi modificado do sistema e o que foi implementado
+Relatorio Sobre o Que Foi Modificado.pdf -> Contém tudo que foi modificado em comparação a
+  versão anterior da documentação e tudo que foi implementado no sistema
+
